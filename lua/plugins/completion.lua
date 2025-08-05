@@ -16,7 +16,6 @@ return {
         ["<C-d>"] = { "show", "show_documentation", "hide_documentation" },
         ["<C-k>"] = { "select_prev", "fallback_to_mappings" },
         ["<C-j>"] = { "select_next", "fallback_to_mappings" },
-        ["<CR>"] = { "select_and_accept" },
       },
     },
   },
